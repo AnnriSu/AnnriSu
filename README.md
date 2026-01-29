@@ -9,7 +9,7 @@
 
 ---
 
-### 🎨 About Me
+### 👩‍🎨 About Me
 - 💻 **Web Developer** with a strong focus on design and full-stack fundamentals  
 - 🎨 **Creative Designer** who values color, layout, and visual storytelling  
 - ✨ I enjoy turning ideas into functional, aesthetic web solutions  
