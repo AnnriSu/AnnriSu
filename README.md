@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anne 👋</h1>
+<h1 align="center">Hi, I'm Anne 👩‍🎨👋</h1>
 <h3 align="center">Web Developer | Digital Artist</h3>
 
 <p align="center">
