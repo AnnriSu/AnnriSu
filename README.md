@@ -21,7 +21,7 @@
 **Design & Development**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,canva" />
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
