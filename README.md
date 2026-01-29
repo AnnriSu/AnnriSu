@@ -1,18 +1,19 @@
 <h1 align="center">Hi, I'm Anne 👋</h1>
-<h3 align="center">Web Designer | Digital Artist</h3>
+<h3 align="center">Web Developer | Digital Artist</h3>
 
 <p align="center">
-  I create visually engaging, user-friendly web designs by blending creativity and functionality.
-  Passionate about clean layouts, intuitive UI, and expressive digital art.
+  Focused on building functional, well-designed web applications through strong backend logic, 
+  structured databases, and intuitive interface design, 
+  while continuously learning network setup and troubleshooting.
 </p>
 
 ---
 
 ### 🎨 About Me
-- 💻 **Web Designer** focused on responsive and modern interfaces  
-- 🎨 **Artist** with an eye for color, layout, and visual storytelling  
-- ✨ I enjoy turning ideas into clean, aesthetic designs  
-- 🚀 Constantly learning new tools and design trends  
+- 💻 **Web Developer** with a strong focus on design and full-stack fundamentals  
+- 🎨 **Creative Designer** who values color, layout, and visual storytelling  
+- ✨ I enjoy turning ideas into functional, aesthetic web solutions  
+- 🚀 Constantly learning new technologies and design trends  
 
 ---
 
@@ -20,7 +21,7 @@
 
 **Design & Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql" />
   <img src="https://skillicons.dev/icons?i=figma,photoshop" />
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -28,11 +29,11 @@
 ---
 
 ### 🌱 Currently Exploring
-- 🎨 **Advanced UI/UX Design Principles**  
-- 🌐 **Modern Web Animations & Interactions**  
-- 🖌️ **Digital Illustration & Visual Branding**  
-- ⚡ **Frontend Frameworks for Better UX**  
+- 🎨 **Advanced UI/UX & Frontend Design Systems**  
+- 🌐 **Interactive & Animated Web Interfaces**  
+- 🧩 **Backend Development with PHP & Database Optimization**  
+- ⚡ **Modern Frontend Frameworks**  
 
 ---
 
-<p align="center">“Design is not just what it looks like — it’s how it works.”</p>
+<p align="center">“Great development brings great design to life.”</p>
